@@ -1,4 +1,9 @@
-mono-pano2vr-skin
+"Mono"
 =================
 
-"Mono" - Pano2VR Skin
+"Mono" - Skin for Pano2VR
+
+[View demo][1]
+
+
+  [1]: http://sphered.com.ua/gallery/vr-tours/architecture/vdng-3dtour
